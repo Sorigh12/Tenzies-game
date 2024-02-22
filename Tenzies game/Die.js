@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Die(props) {
     const styles = {
-        backgroundColor: props.isHeld ? "#59E391" : "white"
+        backgroundColor: props.isHeld ? "#8ADAD8" : "#E4EDF6"
     }
     return (
         <div 
